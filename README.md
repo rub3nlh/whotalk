@@ -1,0 +1,4 @@
+whotalk
+=======
+
+Editorial Analisys Tool. 
